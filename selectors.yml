@@ -1,0 +1,30 @@
+name:
+    css: h1.a-size-large
+    type: Text
+price:
+    css: 'div.a-section div.a-section span.a-size-medium.a-color-price'
+    type: Text
+rating:
+    css: 'div.a-icon-row span.a-size-medium'
+    type: Text
+product_description:
+    css: 'div.a-row.feature p'
+    type: Text
+screen_size:
+    css: 'table#productDetails_techSpec_section_1.a-keyvalue tr:nth-of-type(1) td.a-size-base'
+    type: Text
+ram:
+    css: 'table#productDetails_techSpec_section_1.a-keyvalue tr:nth-of-type(4) td.a-size-base'
+    type: Text
+hard_drive:
+    css: 'table#productDetails_techSpec_section_1.a-keyvalue tr:nth-of-type(5) td.a-size-base'
+    type: Text
+cpu:
+    css: 'table#productDetails_techSpec_section_1.a-keyvalue tr:nth-of-type(3)'
+    type: Text
+brand:
+    css: 'table#productDetails_techSpec_section_2.a-keyvalue tr:nth-of-type(1) td.a-size-base'
+    type: Text
+number_reviews:
+    css: 'div.centerColAlign span.a-declarative a.a-link-normal span.a-size-base'
+    type: Text
